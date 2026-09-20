@@ -1,0 +1,2 @@
+service_id,vehicle_id,service_type,date,description,cost,status
+1,1,Oil Change,2026-09-21,-,5000.00,Completed
